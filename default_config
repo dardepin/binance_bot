@@ -1,0 +1,6 @@
+#telegram settings
+tele_key = '';
+
+# coinmarketcap settings
+market_url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency/listings/latest';
+market_key = '';
